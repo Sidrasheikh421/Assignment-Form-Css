@@ -9,11 +9,13 @@
 h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-shadow: 2px 3px 2px gold;
+    color: aquamarine;
 }
 
 #First {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-shadow: 2px 3px 2px powderblue;
+    text-shadow: 2px 3px 2px rgb(25, 204, 228);
+    color: darkgray;
 }
 
 #second {
